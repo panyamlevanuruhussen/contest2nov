@@ -1,0 +1,99 @@
+* {
+ 
+  color: white;
+}
+#navbar {
+    background-color: black;
+  width: 90vw;
+  margin: auto;
+}
+#aboutus {
+    background-color: black;
+  width: 90vw;
+  margin: auto;
+}
+#menu{
+    background-color: black;
+    width: 90vw;
+    margin: auto;
+}
+#table {
+    background-color: black;
+  margin: auto;
+  width: 90vw;
+  
+}
+tr > td:nth-child(even) {
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+tr > td:nth-child(odd) {
+  text-align: left;
+  padding: 10px;
+}
+.abc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 0px;
+}
+#carousel{
+    background-color: black;
+    width: 90vw;
+    margin: auto;
+}
+#gallery{
+    background-color: black;
+    width: 90vw;
+    margin: auto;
+}
+#image{
+    background-color: black;
+    width: 85vw;
+    margin: auto;
+}
+#findus{
+    background-color: black;
+    width: 90vw;
+    margin: auto;
+    padding-left: 50px;
+}
+#ftr{
+    background-color: black;
+    width: 90vw;
+    margin: auto;
+    padding-top: 30px;
+}
+#bgr{
+    background-color: black;
+    width: 90vw;
+    margin: auto;
+}
+.container {
+   
+    position: relative;
+    text-align: left;
+    color: white;
+   
+
+  }
+  .top-left {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+  }
+#back{
+    background-color: black;
+    width: 90vw;
+    margin: auto;
+}
+#width{
+    width:50vw;
+}
+
+#n2{
+    width: 70vw;
+    display: flex;
+    justify-content: space-between;
+}
